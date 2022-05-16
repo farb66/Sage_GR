@@ -1,5 +1,5 @@
 Metrics Simulated in this Project:
 
-- Schwarzschild\
-- Kerr\
-- Kerr-Newman}
+- Schwarzschild
+- Kerr
+- Kerr-Newman
